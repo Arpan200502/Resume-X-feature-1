@@ -9,7 +9,7 @@ The app takes **unstructured user input** (education, experience, projects, skil
 > 👉 **No backend required** — users securely provide **their own API key**.  
  
 ---
-
+ 
   
 ## ✨ Key Features 
 ### 🧾 One-Page A4 Resume Enforcement
