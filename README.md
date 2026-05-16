@@ -13,7 +13,7 @@ The app takes **unstructured user input** (education, experience, projects, skil
   
 ## ✨ Key Features 
 ### 🧾 One-Page A4 Resume Enforcement
-
+ 
 * Automatically fits content into **exactly one A4 page**
 * **Smart compact mode** for longer resumes 
 * No overflow, no scrolling
